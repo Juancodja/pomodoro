@@ -3,14 +3,12 @@ App pomodoro sencilla con electronjs
 
 Requisitos:
 
--Node 
-
--Npm
+- Node 
+- Npm
 
 Instrucciones, 
 
 Ejecutar:
 
-npm install
-
-nmp run dev 
+- npm install
+- nmp run dev 
