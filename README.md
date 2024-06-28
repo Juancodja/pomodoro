@@ -4,6 +4,7 @@ App pomodoro sencilla con electronjs
 Requisitos:
 
 -Node 
+
 -Npm
 
 Instrucciones, 
@@ -11,4 +12,5 @@ Instrucciones,
 Ejecutar:
 
 npm install
+
 nmp run dev 
